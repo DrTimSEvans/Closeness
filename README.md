@@ -1,2 +1,3 @@
 # Code for Closeness Paper
- Simple code used for analysis in the closeness paper.
+
+Public repository for some fo the simple code used for analysis in the closeness paper.
